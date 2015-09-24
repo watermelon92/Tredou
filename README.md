@@ -1,3 +1,3 @@
 # Tredou
-My first iOS APP.
-Tredou,organize your thougs.
+#My first iOS APP.
+#Tredou,organize your thoughts.
