@@ -1,5 +1,7 @@
-# Tredou
-#My first iOS APP.
-#Tredou,organize your thoughts.
+#Tredou诞生记
+####导语
+>Tredou是我利用业务时间做的第一款iOS作品，灵感来源于WorkFlowy。我希望能够把笔记本的线性输入和思维导图的多维输出结合起来，帮助用户在移动端管理自己的想法。
 
-![image](http://checkitnow-photo.stor.sinaapp.com/app简介.gif)   
+##一、用户需求分析
+
+*当一个人遇到复杂的问题时，会用发散型思维去对问题进行剖析。由立体到面，由面到线，再由线到点。在同纬度，思维是沉浸式的，而在不同纬度之间，是发散式的跳转。
