@@ -208,9 +208,6 @@ extension FirstViewController: UITextViewDelegate {
             var aRect = self.view.frame
             aRect.size.height -= currentKeyboardHeight
             
-//            if !CGRectContainsPoint(aRect, textView.frame.origin){
-//                tableView.scrollRectToVisible(textView.frame, animated: true)
-//            }
             if !CGRectContainsPoint(aRect, CGPointMake(point.x, point.y + size.height)){
                 let activeRect = cell.convertRect(textView.frame, toView: self.view)
                 tableView.scrollRectToVisible(activeRect, animated: true)
