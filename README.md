@@ -3,7 +3,7 @@
 >Tredou是我利用业务时间做的第一款iOS作品，灵感来源于WorkFlowy。我希望能够把笔记本的线性输入和思维导图的多维输出结合起来，帮助用户在移动端管理自己的想法。  
 
 #####Gif演示(有可能加载较慢，可以先往下看)
-![](http://checkitnow-photo.stor.sinaapp.com/Tredou展示视频480.gif)
+![](http://checkitnow-photo.stor.sinaapp.com/Tredou展示视频480.1.gif)
 
 
 ##一、用户需求分析
